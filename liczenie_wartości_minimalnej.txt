@@ -1,0 +1,1 @@
+Aby obliczyć wartość minimalną z liczb zapisanych w pliku (np. jedna liczba w każdym wierszu) w języku Python, należy otworzyć plik, odczytać jego zawartość, przekonwertować odczytane wartości na liczby
