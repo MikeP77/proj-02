@@ -1,0 +1,1 @@
+Aby obliczyć średnią arytmetyczną, zsumuj wszystkie liczby, a następnie podziel wynik przez ich łączną ilość. Przykładowo, dla liczb 2, 4 i 6: suma wynosi 12, po podzieleniu przez 3 daje średnią 4.

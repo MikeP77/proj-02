@@ -7,3 +7,7 @@ Projekt ma na celu dopisanie przez każdego członka zespołu jakiejs funkcjonal
 ## Współtwórcy projektu:
 - Michał Rełkowski
 - Jan Bethier
+
+
+### Nadchodzące zmiany
+- liczenie średniej
